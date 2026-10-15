@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@400;600;700;800&family=Outfit:wght@400;600;700;900&display=swap');
+
+:root {
+  color: #f7f3e8;
+  background: #10140f;
+  font-family: 'Changa', 'Segoe UI', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+h1,
+.soon,
+.eyebrow {
+  font-family: 'Outfit', 'Changa', sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}

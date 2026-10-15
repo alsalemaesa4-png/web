@@ -1,0 +1,11 @@
+{
+  "app_name": "OGT Laptop",
+  "channel": "stable",
+  "latest_version": "5.1.7",
+  "release_date": "2026-04-10",
+  "manifest_url": "https://pub-750ee0c51768422ca12c71a0a1d25e63.r2.dev/ogt-laptop/manifest.json",
+  "website_manifest_url": "",
+  "downloads_base_url": "https://pub-750ee0c51768422ca12c71a0a1d25e63.r2.dev/ogt-laptop",
+  "installer_url": "https://pub-750ee0c51768422ca12c71a0a1d25e63.r2.dev/ogt-laptop/OGT-Installer-v5.1.7.exe",
+  "generated_at": "2026-04-12T00:10:00.000Z"
+}
